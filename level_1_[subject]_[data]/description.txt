@@ -1,6 +1,6 @@
-Event: Workshops JavaScript
+Event: Workshops TypeScript
 Date: 
-Subject: Numbers
+Subject:
 Level: 
 
 Fb private group: https://www.facebook.com/groups/cantestitremotely
